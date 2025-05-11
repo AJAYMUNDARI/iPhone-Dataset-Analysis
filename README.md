@@ -1,5 +1,5 @@
 ## iPhone E-Commerce Data Analysis
-This project involves exploratory data analysis and feature engineering on a real-world e-commerce dataset of iPhones. Using Python and Pandas, we extracted insights to answer meaningful business questions commonly encountered in the e-commerce and retail analytics space.
+This project involves exploratory data analysis and feature engineering on a real-world e-commerce dataset of iPhones. Using Python and Pandas, i extracted insights to answer meaningful business questions commonly encountered in the e-commerce and retail analytics space.
 
 ### Tools & Libraries Used
 
